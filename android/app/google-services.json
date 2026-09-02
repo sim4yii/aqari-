@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694046360090",
+    "project_id": "aqari-22826",
+    "storage_bucket": "aqari-22826.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694046360090:android:35c349b0cccdc8bdcb87a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0lcvkcB6t-ggfeb5YshYJHlwO6TyTQg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
